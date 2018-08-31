@@ -6,7 +6,7 @@ I was given the ES5 code and was tasked to refactor it into ES2015. Enjoy the ga
 
 You can find the LIVE instance of this game at: https://kshirsagarpratik.github.io/Guess-The-Password-ES2015-Refactor/
 
---
+---
 
 ### Description
 
